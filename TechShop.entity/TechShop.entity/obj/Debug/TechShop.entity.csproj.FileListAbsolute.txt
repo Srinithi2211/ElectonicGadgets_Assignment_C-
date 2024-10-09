@@ -1,0 +1,6 @@
+C:\Users\SRINITHI\source\repos\TechShop.entity\TechShop.entity\bin\Debug\TechShop.entity.dll
+C:\Users\SRINITHI\source\repos\TechShop.entity\TechShop.entity\bin\Debug\TechShop.entity.pdb
+C:\Users\SRINITHI\source\repos\TechShop.entity\TechShop.entity\obj\Debug\TechShop.entity.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\TechShop.entity\TechShop.entity\obj\Debug\TechShop.entity.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\TechShop.entity\TechShop.entity\obj\Debug\TechShop.entity.dll
+C:\Users\SRINITHI\source\repos\TechShop.entity\TechShop.entity\obj\Debug\TechShop.entity.pdb

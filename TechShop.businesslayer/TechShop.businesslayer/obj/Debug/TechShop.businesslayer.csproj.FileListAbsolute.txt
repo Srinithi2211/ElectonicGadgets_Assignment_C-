@@ -1,0 +1,9 @@
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\obj\Debug\TechShop.businesslayer.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\obj\Debug\TechShop.businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\bin\Debug\TechShop.businesslayer.dll
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\bin\Debug\TechShop.businesslayer.pdb
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\bin\Debug\TechShop.entity.dll
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\bin\Debug\TechShop.entity.pdb
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\obj\Debug\TechShop.36321DF6.Up2Date
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\obj\Debug\TechShop.businesslayer.dll
+C:\Users\SRINITHI\source\repos\TechShop.businesslayer\TechShop.businesslayer\obj\Debug\TechShop.businesslayer.pdb
