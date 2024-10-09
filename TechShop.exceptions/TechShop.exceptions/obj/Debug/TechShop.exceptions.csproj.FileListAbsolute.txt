@@ -1,0 +1,11 @@
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\bin\Debug\TechShop.exceptions.dll
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\bin\Debug\TechShop.exceptions.pdb
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\bin\Debug\TechShop.businesslayer.dll
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\bin\Debug\TechShop.entity.dll
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\bin\Debug\TechShop.businesslayer.pdb
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\bin\Debug\TechShop.entity.pdb
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\obj\Debug\TechShop.exceptions.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\obj\Debug\TechShop.exceptions.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\obj\Debug\TechShop.74568107.Up2Date
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\obj\Debug\TechShop.exceptions.dll
+C:\Users\SRINITHI\source\repos\TechShop.exceptions\TechShop.exceptions\obj\Debug\TechShop.exceptions.pdb
