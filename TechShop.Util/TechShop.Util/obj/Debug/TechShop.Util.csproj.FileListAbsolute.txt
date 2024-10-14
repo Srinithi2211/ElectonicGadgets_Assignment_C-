@@ -1,0 +1,15 @@
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\obj\Debug\TechShop.Util.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\obj\Debug\TechShop.Util.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.Util.dll.config
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.Util.dll
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.Util.pdb
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.businesslayer.dll
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.ConsoleApp.dll
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.entity.dll
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.businesslayer.pdb
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.ConsoleApp.pdb
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.ConsoleApp.dll.config
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\bin\Debug\TechShop.entity.pdb
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\obj\Debug\TechShop.075B30E4.Up2Date
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\obj\Debug\TechShop.Util.dll
+C:\Users\SRINITHI\source\repos\TechShop.Util\TechShop.Util\obj\Debug\TechShop.Util.pdb
